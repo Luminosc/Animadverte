@@ -1,0 +1,128 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MindFusion.Diagramming/7.2.0": {
+        "runtime": {
+          "lib/net8.0/MindFusion.Barcodes.dll": {
+            "assemblyVersion": "1.0.3.800",
+            "fileVersion": "1.0.3.800"
+          },
+          "lib/net8.0/MindFusion.Common.WinForms.dll": {
+            "assemblyVersion": "1.0.4.800",
+            "fileVersion": "1.0.4.800"
+          },
+          "lib/net8.0/MindFusion.Common.dll": {
+            "assemblyVersion": "1.3.9.800",
+            "fileVersion": "1.3.9.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.EffectsProvider.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Dxf.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Excel.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Pdf.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Svg.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Swf.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Visio.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Export.Wmf.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Import.Draw.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Import.Svg.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.Import.Visio.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.WinForms.Controls.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.WinForms.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Diagramming.dll": {
+            "assemblyVersion": "7.2.0.800",
+            "fileVersion": "7.2.0.800"
+          },
+          "lib/net8.0/MindFusion.Graphs.dll": {
+            "assemblyVersion": "2.3.3.800",
+            "fileVersion": "2.3.3.800"
+          },
+          "lib/net8.0/MindFusion.Licensing.dll": {
+            "assemblyVersion": "1.0.6.800",
+            "fileVersion": "1.0.6.800"
+          },
+          "lib/net8.0/MindFusion.Mapping.dll": {
+            "assemblyVersion": "2.0.3.800",
+            "fileVersion": "2.0.3.800"
+          },
+          "lib/net8.0/MindFusion.Pdf.dll": {
+            "assemblyVersion": "1.3.2.800",
+            "fileVersion": "1.3.2.800"
+          },
+          "lib/net8.0/MindFusion.Scripting.dll": {
+            "assemblyVersion": "1.0.3.800",
+            "fileVersion": "1.0.3.800"
+          },
+          "lib/net8.0/MindFusion.Svg.dll": {
+            "assemblyVersion": "1.2.4.800",
+            "fileVersion": "1.2.4.800"
+          },
+          "lib/net8.0/MindFusion.Swf.dll": {
+            "assemblyVersion": "1.0.2.800",
+            "fileVersion": "1.0.2.800"
+          },
+          "lib/net8.0/MindFusion.Vsx.dll": {
+            "assemblyVersion": "1.0.4.800",
+            "fileVersion": "1.0.4.800"
+          },
+          "lib/net8.0/MindFusion.Zip.dll": {
+            "assemblyVersion": "1.0.1.800",
+            "fileVersion": "1.0.1.800"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MindFusion.Diagramming/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0iFFxYfchwZDe+HOsNkshNk5mCW9CdJQVWdu9fZtHZBE3bHnwLvy6jnFUbUwLH94NVBF6dk+SEy+KPZaMZjcg==",
+      "path": "mindfusion.diagramming/7.2.0",
+      "hashPath": "mindfusion.diagramming.7.2.0.nupkg.sha512"
+    }
+  }
+}

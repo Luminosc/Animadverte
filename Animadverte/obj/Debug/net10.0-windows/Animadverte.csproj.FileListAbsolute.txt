@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Animadverte\Animadverte\bin\Debug\net10.0-windows\Animadverte.exe
+C:\Users\USER\Desktop\Animadverte\Animadverte\bin\Debug\net10.0-windows\Animadverte.deps.json
+C:\Users\USER\Desktop\Animadverte\Animadverte\bin\Debug\net10.0-windows\Animadverte.runtimeconfig.json
+C:\Users\USER\Desktop\Animadverte\Animadverte\bin\Debug\net10.0-windows\Animadverte.dll
+C:\Users\USER\Desktop\Animadverte\Animadverte\bin\Debug\net10.0-windows\Animadverte.pdb
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.Form1.resources
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.AssemblyInfo.cs
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.dll
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\refint\Animadverte.dll
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.pdb
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\Animadverte.genruntimeconfig.cache
+C:\Users\USER\Desktop\Animadverte\Animadverte\obj\Debug\net10.0-windows\ref\Animadverte.dll
