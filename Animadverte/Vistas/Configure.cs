@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Animadverte
 {
-    public partial class Inventory : Form
+    public partial class Configure : Form
     {
-        public Inventory()
+        public Configure()
         {
             InitializeComponent();
         }

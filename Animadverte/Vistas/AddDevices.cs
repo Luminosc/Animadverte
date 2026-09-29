@@ -8,16 +8,11 @@ using System.Windows.Forms;
 
 namespace Animadverte
 {
-    public partial class Main : Form
+    public partial class AddDevices : Form
     {
-        public Main()
+        public AddDevices()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -33,6 +33,8 @@
             label2 = new Label();
             listView1 = new ListView();
             listView2 = new ListView();
+            button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // Title
@@ -84,12 +86,34 @@
             listView2.TabIndex = 12;
             listView2.UseCompatibleStateImageBehavior = false;
             // 
+            // button1
+            // 
+            button1.Location = new Point(489, 154);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 13;
+            button1.Text = "Add Device";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(1032, 154);
+            button2.Name = "button2";
+            button2.Size = new Size(120, 23);
+            button2.TabIndex = 14;
+            button2.Text = "Add Complements";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += this.button2_Click;
+            // 
             // Inventory
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
             ClientSize = new Size(1164, 596);
+            Controls.Add(button2);
+            Controls.Add(button1);
             Controls.Add(listView2);
             Controls.Add(listView1);
             Controls.Add(label2);
@@ -108,5 +132,7 @@
         private Label label2;
         private ListView listView1;
         private ListView listView2;
+        private Button button1;
+        private Button button2;
     }
 }

@@ -13,7 +13,6 @@
     <Folder Include="Controles\" />
     <Folder Include="Servicios\" />
     <Folder Include="VistasModelos\" />
-    <Folder Include="Vistas\" />
   </ItemGroup>
 
   <ItemGroup>
